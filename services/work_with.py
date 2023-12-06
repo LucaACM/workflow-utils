@@ -1,4 +1,4 @@
-from const import toolDockerComposeRoot, composeFiles, makeCommands, toolDockerPath, watchCommand, startCommand
+from const import toolDockerComposeRoot, composeFiles, makeCommands, toolDockerPath, watchCommand, startCommand, projects
 from ruamel.yaml import YAML
 import os
 import re
